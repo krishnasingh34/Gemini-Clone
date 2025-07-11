@@ -1,0 +1,15 @@
+export const suggestions = [
+  "Plan a weekend getaway near me with budget-friendly options.",
+  "Write a cheesy pickup line using a programming pun.",
+  "Create a study plan for my semester exams.",
+  "Suggest beautiful places to see on an upcoming road trip.",
+  "Briefly explain the concept: Urban planning.",
+  "Healthy snack ideas for late-night cravings?",
+  "Give tips for staying focused while working remotely.",
+  "Create a 3-day itinerary for a trip to Ladakh.",
+  "Summarize the theory of relativity in one paragraph.",
+  "Give a simple analogy for how blockchain works.",
+  "Generate a to-do list for moving into a new house.",
+  "Give me a fun fact to drop in a convo.",
+  "Give mindfulness tips for reducing stress.",
+];
